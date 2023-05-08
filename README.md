@@ -1,1 +1,1 @@
-# generic_template for Python Project
+# generic template for generic Project
