@@ -1,1 +1,2 @@
-# generic template for generic Project
+# CNN-Classifer for Cats and Dogs
+
